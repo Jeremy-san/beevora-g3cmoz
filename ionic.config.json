@@ -1,0 +1,8 @@
+{
+  "name": "Beevora",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "efb70a19"
+}
