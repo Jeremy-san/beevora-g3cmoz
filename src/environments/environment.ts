@@ -3,7 +3,9 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  api: 'https://api.sportradar.us/soccer/trial/v4',
+  apiKey: 'wzmb6s6sczmp3k526a7fnys8'
 };
 
 /*
